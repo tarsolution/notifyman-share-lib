@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.tarsolution.notifyman.share.common"},{"l":"com.tarsolution.notifyman.share.plugin"},{"l":"com.tarsolution.notifyman.share.plugin.outbound"}]
